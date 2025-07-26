@@ -1,20 +1,23 @@
-## Hi there 👋 Welcome to my GitHub!
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="welcome banner">
+</p>
 
-I'm **Rubby**, a tech enthusiast who enjoys creating things with code 🚀  
-Always exploring new technologies, building ideas, and solving real-world problems with digital solutions.
+<h1 align="center">Hi there 👋 I'm Rubby</h1>
+<p align="center">🚀 Tech Enthusiast | 💻 Web & Data Explorer | 🎮 Casual Gamer</p>
 
 ---
 
 ### 🔧 What I Do
 - 💻 Currently diving into **Web Development** and **Data Science**
-- 🌱 Constantly learning **React**, **Tailwind CSS**, and **Machine Learning**
-- 📚 Love experimenting with **Python**, **JavaScript**, and cool libraries
+- 🌱 Learning **React**, **Tailwind CSS**, and **Machine Learning**
+- 📚 Building with **Python**, **JavaScript**, and cool open-source tools
 - 🧠 Passionate about clean code and lifelong learning
 
 ---
 
 ### 📫 Let’s Connect!
-- 📧 Email: **[rubbymf10@gmail.com](mailto:rubbymf10@gmail.com)**
+- 📧 Email: [**rubbymf10@gmail.com**](mailto:rubbymf10@gmail.com)
 - 📸 Instagram: [**@rubbymf_**](https://instagram.com/rubbymf_)
 
 ---
@@ -32,11 +35,20 @@ Always exploring new technologies, building ideas, and solving real-world proble
 ---
 
 ### 📈 GitHub Stats
-![Rubby’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rubbymf10&show_icons=true&theme=tokyonight&hide_title=true)
+![Rubby’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rubbymf10&show_icons=true&theme=tokyonight)
+
+---
+
+### 🐍 GitHub Snake Game
+![snake gif](https://github.com/rubbymf10/rubbymf10/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🎮 Play a Game
+Need a break? Try my mini dino game 👇  
+👉 [**Play Dino Game**](https://rubbymf10.github.io/rubbymf10/game/)
 
 ---
 
 ### ✨ Fun Quote
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
-
----
